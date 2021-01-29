@@ -4,4 +4,4 @@ This project was created working through the [Linkedin Learning course](https://
 
 There is no code for this project, as it was mainly about learning the Android Studio IDE, Android Documentation, and an overview of an android project structure.
 
-![](android-studio.png)
+![](android-studio-2.png)
